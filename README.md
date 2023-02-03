@@ -8,7 +8,7 @@
 - :smiley_cat: Always learning **Java**, **Python**, and **JavaScript**
 - :smiling_imp: My <a href="https://www.instagram.com/yaoxshen_art/?igshid=YmMyMTA2M2Y%3D"> artworks</a>
 
-**Currently studying**
+**Tech Stack**
 
 ***
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=ys3593&labelColor=%23ff8a65&countColor=%23ffffff&style=flat-square)
