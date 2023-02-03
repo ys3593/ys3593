@@ -1,7 +1,7 @@
-<h2 align="center">Hey :wave: , I'm <a href="https://www.linkedin.com/in/yaochen-shen/">Yaochen</a></h2>
+<h2 align="center">Hey :wave: , I'm Yaochen</h2>
 
 
-**About Me**
+**About Me** [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/yaochen-shen/)
 
 - :blue_heart:  MSCS student at Columbia University
 - :notes: Pronouns: she/her
@@ -9,7 +9,7 @@
 - :smiling_imp: My <a href="https://www.instagram.com/yaoxshen_art/?igshid=YmMyMTA2M2Y%3D"> artworks</a>
 
 ***
-![Visitors](https://api.visitorbadge.io/api/visitors?path=ys3593&labelColor=%23ff8a65&countColor=%23ffffff)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=ys3593&labelColor=%23ff8a65&countColor=%23ffffff&style=flat-square)
  <br>
 
 
