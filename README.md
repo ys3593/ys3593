@@ -1,16 +1,14 @@
-### Hi there 👋
+<h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a href="https://www.linkedin.com/in/yaochen-shen/">Yaochen</a></h2>
 
-<!--
-**ys3593/ys3593** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**About Me**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :blue_heart:  MSCS student at Columbia University
+- :smiley_cat: Always studying **Java**, **Python**, and **JavaScript**
+- :smiling_imp: My <a href="https://www.instagram.com/yaoxshen_art/?igshid=YmMyMTA2M2Y%3D"> artworks</a>
+
+***
+
+ <br>
+
+
